@@ -29,11 +29,12 @@
 
 <h4>이 프로젝트에 사용되는 것들은 무엇인가?</h4>
 
+* Python
+* DJango
+* MySQL
 * HTML
 * CSS
 * JavaScript
-* Python
-* DJango
 
 ---
 
