@@ -1,0 +1,24 @@
+/*container*/
+
+.jcontainer{
+
+}
+
+/*navigator bar*/
+
+nav{
+    height: 44px;
+
+}
+
+nav.navigator div{
+
+}
+
+nav.navigator div ul{
+    text-align: right;
+}
+
+nav.navigator div ul li{
+
+}
