@@ -107,6 +107,14 @@ $ python manage.py runserver
 
 ---
 
+<h4>Django 를 처음 접한다면? </h4>
+
+<a href="https://github.com/truejin/Django-EASY-Manual">Django-EASY-Manual</a>
+<br>
+<a href="https://docs.djangoproject.com">django official site</a> 
+
+---
+
 <h4>간단한 화면 명세서</h4>
 이 프로젝트에서 현재까지 계획된 화면 구조는 다음과 같다.   
 <br>
